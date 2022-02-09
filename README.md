@@ -5,7 +5,7 @@ and so to start first the server because that is how the clients talk to each ot
 
 The purpose of writing this software was to learn some of the basics of networking with computers.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/061q3BKRSJc)
 
 # Network Communication
 
